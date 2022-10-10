@@ -9,9 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Life is like a marathon not a sprint")
-            .fontWeight(.heavy)
-            .font(.title)
+        Text("Stay Hungry Stay Foolish")
     }
 }
 
